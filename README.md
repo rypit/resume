@@ -11,7 +11,7 @@ To build great software.
 Proven track record of delivering high quality web applications. Requirements gathering and systems design. Project organization. Agile methodology. Continuous integration. Automated testing and test driven development. Peer programming and code review. Ruby, JavaScript, PHP. Ruby on Rails, Sinatra, Capistrano, AngularJS, jQuery, CakePHP, Drupal. HTML and CSS.
 
 ##Experience
-###Phase2 Technology, Alexandria, VA.
+###Phase2 Technology, Alexandria, VA
 ####Developer *(Jan 2012 - Present)*
 Develop custom web applications and high-availability websites for clients in both government and private sectors. DevOps system development. Maintain and contribute to open-source projects. Technical training. Knowledge sharing through blogging, internal presentations, participation in meet-ups and conferences. Large scale data migrations.
 
