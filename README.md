@@ -40,7 +40,7 @@ Bachelor of Science - Computer Technology, 2008.
 Associate Business - Technology, 2007.
 
 ## Interests
-Computer hardware, software and gaming. Philosophy. Snowboarding and mountain biking. Music. New technologies. Social Media and Internet culture. Bacon. Science Fiction.
+Entrepreneurship, artificial intelligence, internet of things, travel, philosophy, motorcycling.
 
 ## Online
 * [Contract](http://adroit.digital)
