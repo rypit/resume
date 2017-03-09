@@ -1,8 +1,8 @@
 #RJ Pittman
 [rypitme@gmail.com](mailto:rypitme@gmail.com)  
-2985 District Ave, #573
+2985 District Ave, #573  
 Fairfax, VA 22031  
-(330) 389-1611  
+(330) 389-1611
 
 ##Objective
 To build great software.
@@ -36,14 +36,15 @@ Designed and implemented an equipment and certification management application f
 
 ##Education
 ###Kent State University
-Bachelor of Science - Computer Technology, 2008.  
+Bachelor of Science - Computer Technology, 2008.
 Associate Business - Technology, 2007.
 
 ##Interests
 Computer hardware, software and gaming. Philosophy. Snowboarding and mountain biking. Music. New technologies. Social Media and Internet culture. Bacon. Science Fiction.
 
 ##Online
-[Github](http://github.com/rypit)  
-[Drupal](http://drupal.org/user/868380)   
-[Twitter](http://twitter.com/rypitme)  
-[LinkedIn](http://www.linkedin.com/in/rypit)      
+[LLC](http://adroit.digital)
+[Github](http://github.com/rypit)
+[Drupal](http://drupal.org/u/rypit)
+[Twitter](http://twitter.com/rypitme)
+[LinkedIn](http://www.linkedin.com/in/rypit)
