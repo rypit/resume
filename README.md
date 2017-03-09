@@ -9,7 +9,7 @@ Proven track record of delivering high quality web applications. Requirements ga
 
 ## Experience
 ### CustomInk
-#### Lead Software Engineer *(Sep 2015 - Present)*
+#### Software Engineering Manager *(Sep 2015 - Present)*
 Lead an amazing team of Ruby engineers to build tools and services that help CustomInk.com deliver customized apparel at scale. Develop and apply department-wide standards and processes to maximize team efficiency. Coordinate with thought leaders across teams to help architect mission critical systems and set direction for infrastructure. Coordinate scheduling and ensure on-time delivery of high quality software through agile project management practices.
 
 #### Lead Software Engineer *(Sep 2013 - Sep 2015)*
