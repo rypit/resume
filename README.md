@@ -4,9 +4,6 @@
 Fairfax, VA 22031  
 (330) 389-1611
 
-## Objective
-To build great software.
-
 ## Qualifications
 Proven track record of delivering high quality web applications. Requirements gathering and systems design. Project organization. Agile methodology. Continuous integration. Automated testing and test driven development. Peer programming and code review. Ruby, JavaScript, PHP. Ruby on Rails, Sinatra, Capistrano, React, Angular, jQuery, CakePHP, Drupal. HTML and CSS.
 
