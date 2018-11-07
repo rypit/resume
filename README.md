@@ -5,12 +5,12 @@ Fairfax, VA 22031
 (330) 389-1611
 
 ## Qualifications
-Proven track record of delivering high quality web applications. Requirements gathering and systems design. Project organization. Agile methodology. Continuous integration. Automated testing and test driven development. Peer programming and code review. Ruby, JavaScript, PHP. Ruby on Rails, Sinatra, Capistrano, React, Angular, jQuery, CakePHP, Drupal. HTML and CSS.
+Proven track record of delivering high quality web applications and services. Engineering thought leadership. Fostering strong engineering culture. Advocate industry standard best practices. Project organization and execution. Agile methodology. Continuous integration and delivery. Automated testing and test driven development. Peer programming and review. Mentorship. Web services, business messaging systems and distributed microservices. Ruby, JavaScript, PHP. Ruby on Rails, Sinatra, Capistrano, React, Angular, jQuery, CakePHP, Drupal. HTML and CSS/SASS.
 
 ## Experience
 ### CustomInk
 #### Software Engineering Manager *(Sep 2015 - Present)*
-Lead an amazing team of Ruby engineers to build tools and services that help CustomInk.com deliver customized apparel at scale. Develop and apply department-wide standards and processes to maximize team efficiency. Coordinate with thought leaders across teams to help architect mission critical systems and set direction for infrastructure. Coordinate scheduling and ensure on-time delivery of high quality software through agile project management practices.
+Lead an amazing team of software engineers to deliver products and services (APIs) that help CustomInk.com deliver customized apparel at scale. Develop and apply department­wide standards and agile processes to maximize team efficiency. Mentor and advise engineers both technically and professionally. Coordinate with thought leaders across teams to help architect mission critical systems and set direction for infrastructure. Plan, schedule and ensure on­time delivery of quality software through agile project management practices. Provide oversight and support to a maintenance team that handles bug fixes and small one­off business tasks. Develop and maintain tools and practices to focus engineering efforts. Lead technical design meetings that encourage team ownership.
 
 #### Lead Software Engineer *(Sep 2013 - Sep 2015)*
 Architect and build backend services and applications to support CustomInk.com. Work with distributed systems using REST, AMQP, and background processing. Design and implement web services and user facing applications.
